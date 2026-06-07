@@ -36,7 +36,7 @@ button,input,select,textarea{font:inherit}
 .brand-copy span{display:block;color:var(--blue);font-size:11px;font-weight:800;letter-spacing:1.8px;text-transform:uppercase;margin-top:4px}
 .nav-menu{display:flex;align-items:center;gap:4px;margin-left:auto}
 .nav-item{position:relative}
-.nav-link{display:flex;align-items:center;gap:5px;padding:30px 12px;color:#203650;font-size:14px;font-weight:700}
+.nav-link{display:flex;align-items:center;gap:5px;padding:30px 8px;color:#203650;font-size:13px;font-weight:700}
 .nav-link:hover,.nav-link.active{color:var(--blue)}
 .dropdown{position:absolute;top:78px;left:0;min-width:245px;background:#fff;border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow);padding:10px;opacity:0;visibility:hidden;transform:translateY(10px);transition:.2s}
 .nav-item:hover .dropdown,.nav-item:focus-within .dropdown{opacity:1;visibility:visible;transform:none}
