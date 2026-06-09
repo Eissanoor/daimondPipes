@@ -2,18 +2,16 @@ DIAMOND PVC PIPE INDUSTRY WEBSITE
 
 Open index.html in any modern browser.
 
-Main files:
-- index.html: homepage
-- about.html: history, mission, vision and CEO message
-- products.html: product range
-- quality.html: quality assurance and testing
-- gallery.html: factory and product gallery
-- careers.html: careers module
-- contact.html: WhatsApp quotation form
-- assets/diamond-pvc-company-profile.pdf: downloadable catalogue
+Main product sections:
+- uPVC Pipes: products.html#upvc
+- PVC Pipes & Fittings: products.html#pvc
+- PPRC Pipes & Fittings: products.html#pprc
+- HDPE / MDPE Pipes: products.html#hdpe
+- PVC Electrical Conduit: products.html#conduit
 
-Contact form behavior:
-The quotation form opens WhatsApp with a prepared message to +92 333 955 7000.
+Official contact details:
+- Phone / WhatsApp: +92 335 920 1000
+- Email: mspvcpipe@yahoo.com
 
-Deployment:
+The quotation form and all WhatsApp buttons use the official mobile number.
 Upload the complete folder contents to your hosting public_html directory.
